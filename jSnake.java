@@ -93,7 +93,7 @@ class jSnake {
                         "    | \\___ \\| '_ \\ / _` | |/ / _ \\\n" +
                         "    | |___) | | | | (_| |   <  __/\n" +
                         "   _/ |____/|_| |_|\\__,_|_|\\_\\___|\n" +
-                        "  |__/        Coded by @jihedkdiss\n";
+                        "  |__/        Coded by @nermine\n";
         banner = fgColors.yellow(banner);
         System.out.println(banner);
     }
